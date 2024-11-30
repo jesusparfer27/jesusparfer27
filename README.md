@@ -3,9 +3,6 @@
 </div>
 <img src="https://github.com/user-attachments/assets/5a3c25d3-bf6b-49d0-803e-d7b1aa5d9721">
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQECrh49PzeYLQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732915205352?e=1738195200&v=beta&t=8IFtMfVbjN52JM3sy4wmETTE_weSO8W8hvQ2jL6k2R0">
-
-
 ## About me
 
 - Software Developer 👨🏻‍💻
