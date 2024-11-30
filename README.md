@@ -1,7 +1,9 @@
 <div align="center">
 <h1 align="center">Hey, my name is Jesús✨</h1>
 </div>
-<img src="https://github.com/user-attachments/assets/5a3c25d3-bf6b-49d0-803e-d7b1aa5d9721">
+<img src="C:\Users\34652\Desktop\1.png">
+
+https://github.com/user-attachments/assets/5a3c25d3-bf6b-49d0-803e-d7b1aa5d9721
 
 ## About me
 
