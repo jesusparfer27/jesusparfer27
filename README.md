@@ -9,9 +9,9 @@
 - Web Designer 🎨
 - Software Comercial 💼
 
-<h1 align="center">Welcome to my GitHub account ✨</h1>
+<h2 align="center">Welcome to my GitHub account ✨</h2>
 
-<h1 align="center">Discover real-world applications built with MongoDB, Express.js, React, and Node.js, alongside other powerful technologies. Take a deep dive into my repositories and see the MERN stack in action.</h1>
+<h2 align="center">Discover real-world applications built with MongoDB, Express.js, React, and Node.js, alongside other powerful technologies. Take a deep dive into my repositories and see the MERN stack in action.</h2>
 
 <!--
 **jesusparfer27/jesusparfer27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
