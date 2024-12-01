@@ -24,7 +24,6 @@
 ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=jesusparfer27&theme=radical)
 
 
-
 <br>
 
 <h2 align="center">Almost ready the deploy on Vercel of my advanced software about products cart 👷🏼‍♂️</h2>
