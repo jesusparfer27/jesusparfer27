@@ -17,7 +17,8 @@
 
 ![Jesús Pareja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusparfer27&show_icons=true&theme=radical)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jesusparfer)](https://wakatime.com/)
+![Jesús Pareja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusparfer27&show_icons=true&theme=radical)
+
 
 <br>
 
