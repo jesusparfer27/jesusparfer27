@@ -21,6 +21,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jesusparfer27&theme=radical)
 
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=jesusparfer27&theme=radical)
+
+
 
 <br>
 
