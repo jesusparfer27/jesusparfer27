@@ -19,6 +19,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusparfer27&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jesusparfer27&theme=radical)
+
 
 <br>
 
