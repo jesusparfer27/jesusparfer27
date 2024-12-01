@@ -1,28 +1,49 @@
 <div align="center">
-<h1 align="center">Hey, my name is Jesús✨</h1>
+  <h1>Hey, I'm Jesús ✨</h1>
+  <p><strong>Full Stack Developer | MERN Specialist | Web Designer</strong></p>
+  <img src="https://github.com/user-attachments/assets/5a3c25d3-bf6b-49d0-803e-d7b1aa5d9721" alt="Profile Image" width="300px">
 </div>
-<img src="https://github.com/user-attachments/assets/5a3c25d3-bf6b-49d0-803e-d7b1aa5d9721">
 
-## About me
+---
 
-- Software Developer 👨🏻‍💻
-- Web Designer 🎨
-- Software Comercial 💼
+## 👨‍💻 About Me
+- Full Stack Developer specializing in **MERN Stack** (MongoDB, Express.js, React, Node.js).
+- Experienced in building dynamic, scalable web applications.
+- Skilled in **Web Design** using modern tools and technologies.
+- Passionate about creating seamless user experiences and innovative solutions.
 
-<h2 align="center">Welcome to my GitHub account ✨</h2>
+---
 
-<h3 align="center">Discover real-world applications built with MongoDB, Express.js, React, and Node.js, alongside other powerful technologies. Take a deep dive into my repositories and see the MERN stack in action.</h3>
+## 🚀 Skills
+- **Frontend**: React, JavaScript, HTML5, CSS3.
+- **Backend**: Node.js, Express.js.
+- **Databases**: MongoDB, MySQL.
+- **Tools & Platforms**: Vite, Vercel, Git, GitHub.
 
-![Profile Views](https://komarev.com/ghpvc/?username=jesusparfer27&color=blueviolet)
+---
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesusparfer27&show_icons=true&theme=radical" alt="Jesús Pareja's GitHub Stats" style="height: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusparfer27&layout=compact&theme=radical" alt="Top Langs" style="height: 100%;">
+<h2 align="center">GitHub Stats & Languages</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jesusparfer27&show_icons=true&theme=radical" alt="GitHub Stats" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusparfer27&layout=compact&theme=radical" alt="Top Languages" height="150px">
 </div>
+
+---
+
+## 📂 Featured Projects
+- **[Advanced Product Cart](#)**: Full-stack project using MERN stack. Deployment on Vercel coming soon!
+- **[Portfolio Website](#)**: Showcase of my web design skills and projects.
   
-<br>
+Explore my repositories for more exciting projects!  
 
-<h2 align="center">Almost ready the deploy on Vercel of my advanced software about products cart 👷🏼‍♂️</h2>
+---
 
-<br>
+## 📫 Contact Me
+- Email: [jesusparfer@outlook.com](mailto:jesusparfer@outlook.com)
+- Location: Valencia, Spain
+- Open to: Hybrid or remote opportunities
 
+---
+
+<h2 align="center">Thanks for visiting my profile! ✨</h2>
