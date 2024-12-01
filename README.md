@@ -1,8 +1,9 @@
 <div align="center">
-  <h1>Hey, I'm Jesús ✨</h1>
+<h1>Hey, I'm Jesús ✨</h1>
   <p><strong>Full Stack Developer | MERN Specialist | Web Designer</strong></p>
-  <img src="https://github.com/user-attachments/assets/5a3c25d3-bf6b-49d0-803e-d7b1aa5d9721" alt="github">
+  <img src="https://github.com/user-attachments/assets/ad5f3bac-2bcf-40e3-99f0-98a4f459dfb7" alt="github">
 </div>
+
 
 ---
 
