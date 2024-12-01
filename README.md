@@ -15,14 +15,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jesusparfer27&color=blueviolet)
 
-<div>
   <div>
     ![Jesús Pareja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusparfer27&show_icons=true&theme=radical)
   </div>
   <div>
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusparfer27&layout=compact&theme=radical)
   </div>
-</div>
 
 <br>
 
