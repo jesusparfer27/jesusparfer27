@@ -17,7 +17,7 @@
 
 ![Jesús Pareja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusparfer27&show_icons=true&theme=radical)
 
-![Jesús Pareja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusparfer27&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusparfer27&layout=compact&theme=radical)
 
 
 <br>
