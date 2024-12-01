@@ -13,7 +13,7 @@
 
 <h2 align="center">Discover real-world applications built with MongoDB, Express.js, React, and Node.js, alongside other powerful technologies. Take a deep dive into my repositories and see the MERN stack in action.</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusparfer27)](https://github.com/jesusparfer27/github-readme-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=jesusparfer27&color=blueviolet)
 
 ![Jesús Pareja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusparfer27&show_icons=true&theme=radical)
 
