@@ -36,7 +36,7 @@
 
 ## 📫 Contact Me
 - Email: [jesusparfer@outlook.com](mailto:jesusparfer@outlook.com)
-- Location: Valencia, Spain
+- Location: Benitachell, Spain
 - Open to: Hybrid or remote opportunities
 
 ---
