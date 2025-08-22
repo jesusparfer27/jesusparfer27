@@ -31,13 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusparfer27&layout=compact&theme=radical" alt="Top Languages" height="150px">
 </div>
 
----
-
-## 📂 Featured Projects
-- **[Advanced Product Cart](#)**: Full-stack project using MERN stack. Deployment on Vercel coming soon!
-- **[Portfolio Website](#)**: Showcase of my web design skills and projects.
-  
-Explore my repositories for more exciting projects!  
 
 ---
 
